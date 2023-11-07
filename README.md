@@ -12,7 +12,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 
-## Link steamlit app
+## Link dashboard steamlit cloud
 ```
 https://dashboard-bikesharing.streamlit.app/
 ```
